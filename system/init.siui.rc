@@ -1,0 +1,14 @@
+# Copyright (c) 2017-2018, Sharp/Infocus Company. All rights reserved.
+#
+
+#20171206 hong.liu add for tcpdump log
+service tcpdumplog /system/bin/tcpdumplog
+    user root
+    group root
+
+on property:persist.sys.tcpdumplog.autoboot=true
+    start tcpdumplog
+
+on property:persist.sys.tcpdumplog.autoboot=false
+    stop tcpdumplog
+

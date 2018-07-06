@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result> 
+	    <locale name="CN">
+		   <value>　　   
+			   <pkgname>com.tencent.mobileqq</pkgname>　　   
+			   <apname_cn>QQ</apname_cn>
+			   <apname_tw>QQ</apname_tw>
+			   <apname_en>QQ</apname_en>
+		   </value>
+			 <value>　　   
+			   <pkgname>com.tencent.mm</pkgname>　　   
+			   <apname_cn>微信</apname_cn>
+			   <apname_tw>微信</apname_tw>
+			   <apname_en>Wechat</apname_en>
+			 </value>
+    </locale> 
+    <locale name="WW">
+     <value>　　   
+		   <pkgname>com.tencent.mobileqq</pkgname>　　   
+		   <apname_cn>QQ</apname_cn>
+		   <apname_tw>QQ</apname_tw>
+		   <apname_en>QQ</apname_en>
+		 </value>
+		 <value>　　   
+		   <pkgname>com.tencent.mm</pkgname>　　   
+		   <apname_cn>微信</apname_cn>
+		   <apname_tw>微信</apname_tw>
+		   <apname_en>Wechat</apname_en>
+		 </value>
+    </locale> 
+</result>
